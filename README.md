@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sabri</h1>
-<h3 align="center">An idle game developer & AI student and Cyber Security Student from Türkiye</h3>
+<h1 align="center"> sa👋, Ben Sabri</h1>
+<h3 align="center">Bağımsız Oyun Geliştirici & Teknopark İstanbul MTAL'de Siber Güvenlik Öğencisi</h3>
 
 ![image](https://github.com/SabriACUN/SabriACUN/assets/96339137/1dee6efa-9a7d-4026-ab1a-51a6b4c76eb3)
 

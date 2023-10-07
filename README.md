@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabri</h1>
 <h3 align="center">An idle game developer & AI student and Cyber Security Student from Türkiye</h3>
 
-![image](https://github.com/SabriACUN/SabriACUN/assets/96339137/acf4c486-89ea-4d18-afc7-aade9a04e00d)
+![image](https://github.com/SabriACUN/SabriACUN/assets/96339137/e8f5c066-f08a-49b5-818f-797972e0e4a5)
 
 
 - 🔭 I’m currently working on **New Technologies on Unity**

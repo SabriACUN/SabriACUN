@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabri</h1>
 <h3 align="center">An idle game developer & AI student and Cyber Security Student from Türkiye</h3>
+<script src="https://tryhackme.com/badge/2282041"></scrip
 
 - 🔭 I’m currently working on **New Technologies on Unity**
 

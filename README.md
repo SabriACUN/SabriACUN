@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sabri</h1>
 <h3 align="center">An idle game developer & AI student and Cyber Security Student from Türkiye</h3>
 
+[![TryHackMe Rozet Adı](https://tryhackme.com/badge/2282041)](https://tryhackme.com/p/sabriacun552)
+
 - 🔭 I’m currently working on **New Technologies on Unity**
 
 - 🌱 I’m currently learning **OpenCV and Tensorflow**

@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
-<h3 align="center">Bağımsız Oyun Geliştirici & Teknopark İstanbul MTAL'de Siber Güvenlik Öğencisi</h3>
+<h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3>
 
 - 🔭 I’m currently working on **New Technologies on Unity**
 

@@ -2,7 +2,6 @@
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3> 
 <br>
-<br>
 
 <p align="center">
   <b>I am trying to create new products by integrating different technologies on Unity. </b> <br>

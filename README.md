@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
   <img src="https://img.shields.io/badge/-Open%20CV%20-%235C3EE8?style=for-the-badge&logo=OpenCV&labelColor=red&color=red"/>
+  <img src="https://img.shields.io/badge/-TensorFlow%20-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   
 
   

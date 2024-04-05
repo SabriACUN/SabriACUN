@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3> 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">My Special Interests and Specialties</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Unity%20Engine-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=white&labelColor=black&color=black"/>
   <img src="https://img.shields.io/badge/-C%23%20-%23512BD4?style=for-the-badge&logo=c%23&logoColor=white&labelColor=purple&color=purple"/>

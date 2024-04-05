@@ -1,4 +1,4 @@
-output-onlinepngtools.png
+
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3>
 

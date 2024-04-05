@@ -13,7 +13,7 @@
 <h3 
 
 <h3 align="left">Languages and Tools:</h3>
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<img src="https://img.shields.io/badge/python%20-%233572A5.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 <h2 align="center">📈 Quick Stats </h2> 
 

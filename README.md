@@ -1,16 +1,6 @@
 <p align="center"><img width="15%" src="pp.png" /></a></p>
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
-<h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3>
-
-- 🔭 I’m currently working on **New Technologies on Unity**
-
-- 🌱 I’m currently learning **OpenCV and Tensorflow**
-
-- 💬 Ask me about **Anything about Unity**
-
-- 📫 How to reach me **sabriacun552@gmail.com**
-
-<h3 
+<h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">

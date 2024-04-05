@@ -1,4 +1,4 @@
-<img width="15%" align="center" src="pp.png" /></a></p>
+<p align="center"><img width="15%" src="pp.png" /></a></p>
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3>
 

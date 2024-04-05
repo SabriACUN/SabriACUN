@@ -1,4 +1,4 @@
-<img width="80%" alt="Hello, I'm Anurag. I do open source!" src="pp.png" /></a></p>
+<img width="20%" alt="Hello, I'm Anurag. I do open source!" src="pp.png" /></a></p>
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3>
 

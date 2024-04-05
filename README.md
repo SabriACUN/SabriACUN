@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabriacun&show_icons=true&locale=en" alt="sabriacun" /></p>
 
-![Sabri's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Sabri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabriacun&show_icons=true&theme=radical)

@@ -1,11 +1,14 @@
 <p align="center"><img width="15%" src="pp.png" /></a></p>
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3> 
-I am trying to create new products by integrating different technologies on Unity.
+<br>
+<br>
+
 <p align="center">
-  · Managing or transferring the Game from the Outside World with Image Processing <Br>
-  · Taking files and photos from the Remote User with Firebase (Request Permission AFTER Taking Files)
-  · Controlling the Game with Arduino
+  I am trying to create new products by integrating different technologies on Unity.
+  · Managing or transferring the Game from the Outside World with Image Processing <br>
+  · Taking files and photos from the Remote User with Firebase (Request Permission AFTER Taking Files) <br>
+  · Controlling the Game with Arduino <br>
   · AR & VR
 </p>
 

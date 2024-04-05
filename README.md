@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=white&labelColor=black&color=black"/>
+  <img src="https://img.shields.io/badge/-Unity%20Engine-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=white&labelColor=black&color=black"/>
 
 
   

@@ -16,9 +16,9 @@
 
 <h2 align="center">📈 Quick Stats </h2> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabriACUN&show_icons=true&theme=gradient" alt="My stats">  
+  <img src="https://github-readme-stats.vercel.app/api?username=SabriACUN&show_icons=true&theme=Gradient" alt="My stats">  
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabriACUN&layout=compact&show_icons=true&theme=gradient" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabriACUN&layout=compact&show_icons=true&theme=Gradient" alt="Most Used Languages">
 </p>
 

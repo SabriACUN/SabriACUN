@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Unity%20Engine-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=white&labelColor=black&color=black"/>
   <img src="https://img.shields.io/badge/-C%23%20-%23512BD4?style=for-the-badge&logo=c%23&logoColor=white&labelColor=purple&color=purple"/>
   <img src="https://img.shields.io/badge/python%20-%233572A5.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino%20-%2300878F?style=for-the-badge&logo=arduino&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>

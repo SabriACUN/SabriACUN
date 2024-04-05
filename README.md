@@ -31,8 +31,9 @@
 </p>
 
 <h2 align="center">✉️ Contact Me</h2>
+
 <p align="center">
-  ...
+  sabriacun552.2@gmail.com
 </p>
 
 <h2 align="center">📈 Quick Stats </h2> 

@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  I am trying to create new products by integrating different technologies on Unity.
+  I am trying to create new products by integrating different technologies on Unity. <br>
   · Managing or transferring the Game from the Outside World with Image Processing <br>
   · Taking files and photos from the Remote User with Firebase (Request Permission AFTER Taking Files) <br>
   · Controlling the Game with Arduino <br>

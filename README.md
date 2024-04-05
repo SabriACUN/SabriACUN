@@ -18,10 +18,10 @@
 
 <p align="center">
   ![Sabri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabriACUN\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabriACUN&show_icons=true&theme=ambient_gradient" alt="My stats">  
+  <img src="https://github-readme-stats.vercel.app/api?username=SabriACUN\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff" alt="My stats">  
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabriACUN&layout=compact&show_icons=true&theme=ambient_gradient" alt="Most Used Languages">

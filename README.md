@@ -42,6 +42,8 @@
 <h2 align="center">✉️ Contact &  Social info 🔗</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-sabriacun552%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  
   sabriacun552.2@gmail.com
 </p>
 <br>

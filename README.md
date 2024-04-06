@@ -50,3 +50,9 @@
 ![Sabri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabriACUN\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabriACUN\&layout=donut\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/SabriACUN/github-readme-stats)
 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=SabriACUN&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=SabrşACUN&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/SabriACUN/github-stats">
+<img width="400" src="https://SabriACUN.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img width="400" src="https://SabriACUN.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+

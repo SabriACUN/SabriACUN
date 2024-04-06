@@ -1,7 +1,7 @@
 <p align="center"><img width="15%" src="pp.png" /></a></p>
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=7000&pause=1000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Idle+Game+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Idle+Game+Developer+%26+Student+from+Teknopark+Istanbul+Cyber+Security+High+School)](https://git.io/typing-svg)
 
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3> 
 <br>

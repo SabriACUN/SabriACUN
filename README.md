@@ -39,7 +39,7 @@
 
 <br>
 
-<h2 align="center">✉️ Contact Me</h2>
+<h2 align="center">✉️ Contact &  Social info 🔗</h2>
 
 <p align="center">
   sabriacun552.2@gmail.com

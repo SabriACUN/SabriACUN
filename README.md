@@ -44,8 +44,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-sabriacun552%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <img src="https://img.shields.io/badge/-sabriacun552.2%20-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-sabri%20acun%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
+
 <br>
+
 <h2 align="center">📈 Quick Stats </h2> 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=SabriACUN&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />

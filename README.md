@@ -43,8 +43,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-sabriacun552%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  
-  sabriacun552.2@gmail.com
+  <img src="https://img.shields.io/badge/-sabriacun552.2%20-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 <br>
 <h2 align="center">📈 Quick Stats </h2> 

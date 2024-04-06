@@ -56,3 +56,5 @@
 <img width="400" src="https://SabriACUN.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img width="400" src="https://SabriACUN.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 
+![](https://raw.githubusercontent.com/SabriACUN/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+

@@ -59,5 +59,7 @@
   <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
 
-### 👀 Visitor Info
-[![Sabri ACUN profile views](https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg)](https://u8views.com/github/SabriACUN)
+<h3 align="center">👀 Visitor Info </h3>
+<p align="center">
+  <a href="https://u8views.com/github/SabriACUN"><img src="https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg"></a>
+</p>

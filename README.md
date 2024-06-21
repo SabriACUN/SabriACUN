@@ -15,7 +15,7 @@
   · Managing or transferring the Game from the Outside World with Image Processing <br>
   · Taking files and photos from the Remote User with Firebase (Request Permission AFTER Taking Files) <br>
   · Controlling the Game with Arduino <br>
-  · AR & VR   
+  · AR & VR         
   Medium : https://medium.com/@sabriacun552
 </p>
 

@@ -16,7 +16,7 @@
   · Taking files and photos from the Remote User with Firebase (Request Permission AFTER Taking Files) <br>
   · Controlling the Game with Arduino <br>
   · AR & VR         
-  Medium : https://medium.com/@sabriacun552
+  · Medium : https://medium.com/@sabriacun552   
 </p>
 
 

@@ -17,7 +17,6 @@
   · Controlling the Game with Arduino <br>
   · AR & VR
   <br>
-  · Medium : https://medium.com/@sabriacun552   
 </p>
 
 

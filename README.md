@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Idle%20Game%20Developer%20;Student%20From%20Teknopark%20Istanbul;Cyber%20Security%20High%20School;Always%20learning%20new%20things&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=300&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Idle%20Game%20Developer%20;Student%20From%20Teknopark%20Istanbul;Cyber%20Security%20High%20School&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=300&size=22" /></a>
 </p>
 
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3> 

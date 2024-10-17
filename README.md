@@ -58,10 +58,6 @@
   <a href="https://github.com/SabriACUN/github-stats">
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/SabriACUN/SabriACUN/refs/heads/main/github-user-contribution.svg">
-</p>
-
 <h3 align="center">👀 Visitor Info </h3>
 <p align="center">
   <a href="https://u8views.com/github/SabriACUN"><img src="https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg"></a>

@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/-sabri%20acun%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
-<br>
 
 <h2 align="center">📈 Quick Stats </h2> 
 <p align="center">

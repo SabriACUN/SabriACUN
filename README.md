@@ -58,7 +58,9 @@
   <a href="https://github.com/SabriACUN/github-stats">
 </p>
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rednexie/Rednexie/refs/heads/main/github-user-contribution.svg">
+</p>
 
 <h3 align="center">👀 Visitor Info </h3>
 <p align="center">

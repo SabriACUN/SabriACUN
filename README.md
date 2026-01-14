@@ -29,15 +29,6 @@
   <img src="https://img.shields.io/badge/python%20-%233572A5.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arduino%20-%2300878F?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
-<h4 align="center">Learning and Developing</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Open%20CV%20-%235C3EE8?style=for-the-badge&logo=OpenCV&labelColor=red&color=red"/>
-  <img src="https://img.shields.io/badge/-TensorFlow%20-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-</p>
 
 <br>
 
@@ -46,5 +37,6 @@
 <p align="center">
   <a href="https://u8views.com/github/SabriACUN"><img src="https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg"></a>
 </p>
+
 
 

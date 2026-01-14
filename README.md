@@ -10,7 +10,7 @@
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3> 
 <br>
 
-<p align="center">
+<p align="left">
   <b>I am trying to create new products by integrating different technologies on Unity. </b> <br>
   · Managing or transferring the Game from the Outside World with Image Processing <br>
   · Taking files and photos from the Remote User with Firebase (Request Permission AFTER Taking Files) <br>
@@ -37,6 +37,7 @@
 <p align="center">
   <a href="https://u8views.com/github/SabriACUN"><img src="https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg"></a>
 </p>
+
 
 
 

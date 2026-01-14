@@ -1,4 +1,4 @@
-<p align="center"><img width="15%" src="pp.png" /></a></p>
+<!--<p align="center"><img width="15%" src="pp.png" /></a></p>-->
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
 
 <p align="center">
@@ -37,6 +37,7 @@
 <p align="center">
   <a href="https://u8views.com/github/SabriACUN"><img src="https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg"></a>
 </p>
+
 
 
 

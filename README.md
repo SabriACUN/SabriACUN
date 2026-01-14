@@ -11,11 +11,11 @@
 <br>
 
 <p align="left">
-  <b>I am trying to create new products by integrating different technologies on Unity. </b> <br>
-  · Managing or transferring the Game from the Outside World with Image Processing <br>
-  · Taking files and photos from the Remote User with Firebase //Projects<br>
-  · Controlling the Game with Arduino <br>
-  - AR & VR
+  <b>I focus on developing Unity-based systems by combining game development with external technologies. </b> <br>
+  • Integrating real-world input into games using image processing techniques.<br>
+  • Handling remote user files and media through Firebase-based workflows<br>
+  • Interfacing Unity applications with Arduino hardware for external control<br>
+  • AR & VR
   <br>
 </p>
 
@@ -37,6 +37,7 @@
 <p align="center">
   <a href="https://u8views.com/github/SabriACUN"><img src="https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg"></a>
 </p>
+
 
 
 

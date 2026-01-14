@@ -2,10 +2,11 @@
 <h1 align="center"> 👋 Hi, I'am Sabri</h1>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Idle%20Game%20Developer%20;Student%20From%20Teknopark%20Istanbul;Cyber%20Security%20High%20School&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=3b82f6&vCenter=true&pause=300&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Idle%20Game%20Developer;Cyber%20Security;Game%20Development&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=3b82f6&vCenter=true&pause=300&size=22" />
+  </a>
 </p>
+
 
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3> 
 <br>
@@ -37,6 +38,7 @@
 <p align="center">
   <a href="https://u8views.com/github/SabriACUN"><img src="https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg"></a>
 </p>
+
 
 
 

@@ -41,19 +41,10 @@
 
 <br>
 
-<h2 align="center">✉️ Contact &  Social info 🔗</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-sabriacun552%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-sabriacun552.2%20-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-sabri%20acun%20-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
-
-<br>
-
 
 <h3 align="center">👀 Visitor Info </h3>
 <p align="center">
   <a href="https://u8views.com/github/SabriACUN"><img src="https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg"></a>
 </p>
+
 

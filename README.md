@@ -3,9 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Idle%20Game%20Developer;Cyber%20Security;Game%20Development&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=3b82f6&vCenter=true&pause=300&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Idle%20Game%20Developer;Cyber%20Security&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=3b82f6&vCenter=true&pause=300&size=22" />
   </a>
 </p>
+
 
 
 <h3 align="center">Idle Game Developer & Student from Teknopark Istanbul Cyber Security High School</h3> 
@@ -38,6 +39,7 @@
 <p align="center">
   <a href="https://u8views.com/github/SabriACUN"><img src="https://u8views.com/api/v1/github/profiles/96339137/views/day-week-month-total-count.svg"></a>
 </p>
+
 
 
 
